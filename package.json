@@ -1,0 +1,29 @@
+{
+  "name": "express-router",
+  "version": "0.0.1",
+  "description": "基于Express的Router设计套路，适用于较复杂的Node项目",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nieweidong/express-router.git"
+  },
+  "keywords": [
+    "route", "routes", "router", "routers", "express"
+  ],
+  "author": "nieweidong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nieweidong/express-router/issues"
+  },
+  "homepage": "https://github.com/nieweidong/express-router",
+  "dependencies": {
+    "express": "^4.13.1",
+  },
+  "engines": {
+    "node": ">= 0.11.16",
+    "iojs": ">= 1.0.0"
+  }
+}
