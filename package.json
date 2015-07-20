@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/nieweidong/express-router",
   "dependencies": {
-    "express": "^4.13.1",
+    "express": "^4.13.1"
   },
   "engines": {
     "node": ">= 0.11.16",
